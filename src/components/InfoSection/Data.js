@@ -10,7 +10,7 @@ export const homeObjOne = {
   topLine: 'About Us',
   headline: 'Who we are?',
   description:
-    'At Ariz Inc, we believe data is the catalyst for unlocking new opportunities and driving growth. As a boutique digital transformation and development firm, we specialize in innovative solutions that harness the power of data.',
+    'Wiry is a digital marketing company dedicated to helping businesses enhance their online presence and achieve their marketing goals in the ever-evolving digital landscape.',
   buttonLabel: 'Scroll Top',
   imgStart: false,
   img: svg_1,

@@ -13,7 +13,7 @@ import {
   NavBtn,
   NavBtnLink
 } from './NavbarElements';
-import logo from '../../images/Logo.png';
+import logo from '../../images/New_logo.png';
 
 const NavbarDigital = ({ toggle }) => {
   const [scrollNav, setScrollNav] = useState(false);
