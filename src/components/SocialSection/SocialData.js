@@ -8,9 +8,9 @@ export const homeObjOne = {
   lightText: true,
   lightTextDesc: true,
   topLine: 'Automation',
-  headline: 'GEN AI Auto',
+  headline: 'Social Media',
   description:
-    'With GEN AI automation it streamlines processes by automating repetitive tasks, freeing up human resources for more strategic activities.',
+    'In todays world Social media is one of the important platforms for marketing and we ace at the Social media marketing, we provide services from Shooting, to Editing to final executions of social media posts for your company so you live stress free about it.',
   buttonLabel: 'Scroll Top',
   imgStart: false,
   img: robo,
@@ -26,9 +26,9 @@ export const homeObjTwo = {
   lightText: false,
   lightTextDesc: false,
   topLine: 'Media Generation',
-  headline: 'GEN AI for Creativity',
+  headline: 'Content Generation',
   description:
-    'Gen AI can enhance creativity by generating new ideas, inspiring novel approaches, and providing a diverse range of perspectives. It can also assist in refining existing creative works, suggesting improvements, and exploring alternative possibilities.',
+    'We excel at producing creative ideas for content creation so that your posts get more attention and more views so that your brand gets all the success needed to be on the forefront',
   buttonLabel: 'Home',
   imgStart: true,
   img: generation,

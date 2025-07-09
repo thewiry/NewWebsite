@@ -8,12 +8,9 @@ export const homeObjOne = {
   lightText: true,
   lightTextDesc: true,
   topLine: 'On-demand',
-  headline: 'Cloud Architecture',
+  headline: 'Digital Services',
   description:
-    `Architecture on demand is a flexible cloud computing model that dynamically provisions resources based on real-time requirements.\n
-     It allows businesses to scale infrastructure up or down automatically as demand fluctuates, optimizing performance and cost. \n
-     Key components include compute instances, storage, networking, and databases, all managed through orchestration tools and APIs. \n
-     This architecture supports high availability and fault tolerance by distributing resources across multiple locations. It is ideal for environments with unpredictable workloads, such as e-commerce, streaming services, and SaaS platforms.`,
+    `We provide A-Z digital solutions from ranking your webpage on google to improving your ranking, from Instagram to Tiktok social media handeling and from photography to editing your content`,
   buttonLabel: 'Home',
   imgStart: false,
   video: architecture,
@@ -31,11 +28,11 @@ export const homeObjTwo = {
   topLine: 'Platforms',
   headline: 'Cloud Platforms',
   description:
-    `Migrating from on-premises servers to cloud platforms is a crucial step for many businesses seeking scalability, cost-efficiency, and enhanced performance.\n
-    We are the experts to move your infrastructure from On-prem servers to the Major 3 cloud platforms: \n
-    1. Amazon Web Services\n
-    2. Microsoft Azure\n
-    3. Google Cloud Platform`,
+    `Couple of Services that we offer are: \n
+    1. Social Media Handling\n
+    2. Creating Virtual Tours\n
+    3. Google Seo and Ads campaigns\n
+    4. Influencer Collaborations & Boosting`,
   buttonLabel: 'Scroll Top',
   imgStart: true,
   img: cloud_platforms,

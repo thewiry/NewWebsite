@@ -26,9 +26,9 @@ export const homeObjTwo = {
   lightText: false,
   lightTextDesc: false,
   topLine: 'Big APPLE',
-  headline: 'Why New York Businesses Trust Us',
+  headline: 'Why Businesses Trust Us',
   description:
-    'As a New York-based firm, we understand the unique challenges and opportunities that local businesses face. Our deep knowledge of the market, combined with our technical expertise, makes us the ideal partner for your IT needs.',
+    'As a New York-based firm which is the hub of marketing, we understand the unique challenges and opportunities that local businesses face. Our deep knowledge of the market, combined with our technical expertise, makes us the ideal partner for your digital needs.',
   buttonLabel: 'Learn More',
   imgStart: true,
   img: new_york,
